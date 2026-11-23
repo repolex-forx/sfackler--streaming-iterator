@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "sfackler",
+  "repo": "streaming-iterator",
+  "versions": [
+    {
+      "commit": "69069dc9e46facef6caa79ee48e47420de92633d",
+      "parsed_at": "2026-11-23T00:25:25.037143+00:00",
+      "tag": "v0.1.9",
+      "filetree": "filetree/69069dc9e46facef6caa79ee48e47420de92633d.nq.gz",
+      "blobs": [
+        "blob/59787cb1b88a11964eedd059cc24ffeaed6b6fe7.nq.gz",
+        "blob/9e3651168bde413cf9837157dc58cf4175dcc260.nq.gz",
+        "blob/8f71f43fee3f78649d238238cbde51e6d7055c82.nq.gz",
+        "blob/e083179d4015d82bde1496bf9b52fa83d9b412b4.nq.gz",
+        "blob/4867f3f568b2baa37f00410e0c5686b7261ae6a1.nq.gz",
+        "blob/169f3a6058d7a916e9a4ba17550d2772e30acfe9.nq.gz",
+        "blob/ff7ccd8a1b098cfa4b53aae48f3208be2963296b.nq.gz",
+        "blob/3b874ca574de0550d0ee2608988aeb9655940377.nq.gz",
+        "blob/900b8353f5276fe9f656a1ce4e6bfab5c2e93ff7.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
